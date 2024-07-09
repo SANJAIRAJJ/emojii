@@ -1,0 +1,38 @@
+#face{
+    background-color: yellow;
+    height: 350px;
+    width: 350px;
+    border-radius: 75%;
+    box-shadow: 5px 5px 5px black;
+    margin: auto;
+    margin-top: 150px;
+}
+#eyes{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 90px;
+}
+#leye{
+    background: black;
+    height: 80px;
+    width: 35px;
+    border-radius: 75%;
+    margin-top: 18px;
+}
+#reye{
+    background: black;
+    height: 80px;
+    width: 35px;
+    border-radius: 75%;
+    margin-top: 18px;
+}
+#tongue{
+    background: rgb(226, 212, 212);
+    height: 40px;
+    width: 26%;
+    margin: auto;
+    margin-top: 45px;
+    border-bottom-left-radius: 550% ;
+    border-bottom-right-radius:550%;
+    
+}
